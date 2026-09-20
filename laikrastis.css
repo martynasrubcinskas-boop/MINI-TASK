@@ -1,0 +1,14 @@
+p {
+  margin: 0 10pt;
+  text-indent: 2cm;
+  text-align: justify;
+}
+
+div {
+  -moz-column-count: 3; /* Firefox */
+  -webkit-column-count: 3; /* Safari and Chrome */
+  column-count: 3;
+  -moz-column-rule: 4px outset #ff00ff;
+  -webkit-column-rule: 4px outset #ff00ff;
+  column-rule: 4px outset #ff00ff;
+}
