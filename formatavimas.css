@@ -1,0 +1,13 @@
+span {
+    font-size: x-large;
+}
+#vebas, #mot {
+    text-decoration: line-through;
+}
+#mot {
+    font-size: medium;
+}
+#saitynas, #gmail, #vyr {
+    text-decoration: underline;
+    font-size: medium;
+}
